@@ -399,7 +399,7 @@ Your Hubby ❤️`;
             backgroundPosition: 'center',
           }}
         >
-          <h2 className="text-4xl md:text-5xl font-bold mb-8 text-accent drop-shadow-lg">
+          <h2 className="text-4xl md:text-5xl font-bold mb-8 text-accent drop-shadow-lg" style={{color: '#994848'}}>
             Click for a Birthday Surprise
           </h2>
           <button
@@ -408,7 +408,7 @@ Your Hubby ❤️`;
           >
             🎉 Surprise Me! 🎉
           </button>
-          <p className="text-2xl text-accent font-bold mt-8 drop-shadow-lg">
+          <p className="text-2xl text-accent font-bold mt-8 drop-shadow-lg" style={{color: '#612929'}}>
             I Love You So Much ❤️
           </p>
         </div>
