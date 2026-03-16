@@ -43,7 +43,7 @@ Happy Birthday, my beautiful Azumi. You mean the world to me. ❤️`;
     'https://imgur.com/a/xgD9o62',
     'https://imgur.com/PZ8EHDt',
     'https://images.unsplash.com/photo-1506794778202-cad84cf45f1d?w=500https://images.unsplash.com/photo-1507371341519-e21cc028cb29?w=500&h=500&fit=croph=500https://images.unsplash.com/photo-1507371341519-e21cc028cb29?w=500&h=500&fit=cropfit=crop',
-    'https://images.unsplash.com/photo-1506794778202-cad84cf45f1d?w=500&h=500&fit=crop',
+    'https://imgur.com/jzIsdrl',
     'https://images.unsplash.com/photo-1494790108377-be9c29b29330?w=500https://images.unsplash.com/photo-1500295942863-6f3ee5c7d5a0?w=500&h=500&fit=croph=500https://images.unsplash.com/photo-1500295942863-6f3ee5c7d5a0?w=500&h=500&fit=cropfit=crop',
   ];
 
