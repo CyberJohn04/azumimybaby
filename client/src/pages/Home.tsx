@@ -39,12 +39,12 @@ Happy Birthday, my beautiful Azumi. You mean the world to me. ❤️`;
 
   // PHOTO GALLERY - Replace these image URLs with your own photos
   const GALLERY_IMAGES = [
-    'https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=500https://images.unsplash.com/photo-1516962278756-18f3c5f0b009?w=500&h=500&fit=croph=500https://images.unsplash.com/photo-1516962278756-18f3c5f0b009?w=500&h=500&fit=cropfit=crop',
-    'https://imgur.com/a/xgD9o62',
-    'https://imgur.com/PZ8EHDt',
-    'https://images.unsplash.com/photo-1506794778202-cad84cf45f1d?w=500https://images.unsplash.com/photo-1507371341519-e21cc028cb29?w=500&h=500&fit=croph=500https://images.unsplash.com/photo-1507371341519-e21cc028cb29?w=500&h=500&fit=cropfit=crop',
-    'https://imgur.com/jzIsdrl',
-    'https://images.unsplash.com/photo-1494790108377-be9c29b29330?w=500https://images.unsplash.com/photo-1500295942863-6f3ee5c7d5a0?w=500&h=500&fit=croph=500https://images.unsplash.com/photo-1500295942863-6f3ee5c7d5a0?w=500&h=500&fit=cropfit=crop',
+    'https://imgur.com/gJZGfmm.jpg',
+    'https://imgur.com/ifLJVPY.jpg',
+    'https://imgur.com/GDXMvzt.jpg',
+    'https://imgur.com/jzIsdrl.jpg',
+    'https://imgur.com/PZ8EHDt.jpg',
+    'https://imgur.com/undefined.jpg',
   ];
 
   // MEMORIES TIMELINE - Add your memories here
@@ -316,7 +316,7 @@ Your Hubby ❤️`;
                 <img
                   src={image}
                   alt={`Memory ${index + 1}`}
-                  className="w-full h-64 object-cover"
+                  className="w-full h-64 object-cover object-center"
                 />
                 <div className="absolute inset-0 bg-gradient-to-t from-accent/50 to-transparent opacity-0 group-hover:opacity-100 transition-opacity duration-300 flex items-end justify-center pb-4">
                   <span className="text-white text-2xl">💕</span>
