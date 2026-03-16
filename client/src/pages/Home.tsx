@@ -24,7 +24,7 @@ export default function Home() {
   // ============================================================================
 
   // LOVE START DATE - Change this to the date you started loving her
-  const LOVE_START_DATE = new Date('2020-01-15');
+  const LOVE_START_DATE = new Date('2021-03-21');
 
   // BIRTHDAY MESSAGE - Edit this heartfelt message
   const BIRTHDAY_MESSAGE = `My Dearest Mahal,
