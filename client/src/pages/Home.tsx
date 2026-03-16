@@ -27,7 +27,7 @@ export default function Home() {
   const LOVE_START_DATE = new Date('2020-01-15');
 
   // BIRTHDAY MESSAGE - Edit this heartfelt message
-  const BIRTHDAY_MESSAGE = `My Dearest Love,
+  const BIRTHDAY_MESSAGE = `My Dearest Mahal,
 
 Today is your special day, and I wanted to create something just for you. Every moment with you has been a blessing, and I'm so grateful for the love, laughter, and memories we've shared together.
 
@@ -35,7 +35,7 @@ You make my world brighter with your smile, warmer with your touch, and fuller w
 
 On this day, I celebrate not just your birthday, but the incredible woman you are and all the joy you bring into my life. Here's to another year of adventures, dreams, and endless love.
 
-Happy Birthday, my beautiful love. You mean the world to me. ❤️`;
+Happy Birthday, my beautiful Azumi. You mean the world to me. ❤️`;
 
   // PHOTO GALLERY - Replace these image URLs with your own photos
   const GALLERY_IMAGES = [
@@ -82,20 +82,22 @@ Happy Birthday, my beautiful love. You mean the world to me. ❤️`;
   // FINAL LOVE LETTER - Write your long birthday message here
   const FINAL_LOVE_LETTER = `My Most Beautiful Girl,
 
-As I sit down to write this, I'm overwhelmed with emotions thinking about how much you mean to me. Today marks another year of your beautiful existence, and I wanted to take a moment to tell you just how special you are.
+Happy Birthday, mahal ko. 🎉❤️
 
-From the moment you came into my life, everything changed. The colors seemed brighter, the music sweeter, and every day felt like an adventure worth taking. You have this incredible ability to make even the simplest moments feel magical and unforgettable.
+Sa araw na ito, gusto ko lang magpasalamat sa Diyos dahil ipinanganak ka. Kasi kung hindi ka ipinanganak sa mundong ito, hindi ko makikilala ang isang taong tulad mo—yung taong sobrang bait, sobrang mapagmahal, at sobrang mapag-unawa.
 
-I admire so many things about you - your strength when facing challenges, your kindness toward others, your infectious laugh that lights up any room, and the way you love so deeply and genuinely. You inspire me to be a better person every single day.
+Alam ko na hindi ako perpektong boyfriend. Alam ko rin na minsan dahil sa sobrang selos ko o sa mga pagkukulang ko, nasasaktan kita. Pero kahit ganun, nandiyan ka pa rin. Hindi ka napapagod magpaliwanag, hindi ka sumusuko sa atin, at patuloy mo pa rin akong minamahal. At doon ko lalo nakikita kung gaano ka kahalaga sa buhay ko.
 
-Thank you for being my partner, my best friend, and my greatest love. Thank you for all the memories we've created and for all the ones yet to come. I'm so excited about our future together and all the dreams we'll chase.
+Salamat dahil ikaw yung taong nakakaintindi sa akin kahit minsan mahirap akong intindihin. Salamat sa pagiging mabait, sa pagiging mapagmahal, at sa pananatili mo sa tabi ko kahit may mga araw na hindi ako nagiging sapat.
 
-On this special day, I want you to know that you are loved more than words could ever express. You are my greatest blessing, my sweetest dream come true, and my forever love.
+Kung hindi ka ipinanganak, hindi ko mararanasan kung paano magmahal at mahalin ng ganito. Wala akong magiging wifey na kasing bait, kasing sweet, at kasing maintindihin mo.
 
-Happy Birthday to the most amazing woman in the world. I love you with all my heart.
+Sa birthday mo, gusto ko lang iparamdam sa'yo kung gaano kita kamahal at kung gaano ako nagpapasalamat na ikaw ang girlfriend ko. Deserve mo lahat ng saya, lahat ng blessings, at lahat ng pagmamahal sa mundo.
+
+Happy Birthday ulit, mahal ko. Sana marami pa tayong birthdays na magkasama. Mahal na mahal kita. ❤️
 
 Forever yours,
-Your Love ❤️`;
+Your Hubby ❤️`;
 
   // ============================================================================
   // END OF CONFIGURATION SECTION
