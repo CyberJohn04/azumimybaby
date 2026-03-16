@@ -327,47 +327,7 @@ Your Hubby ❤️`;
         </div>
       </section>
 
-      {/* MEMORIES TIMELINE */}
-      <section id="timeline" className="py-20 px-4 bg-card">
-        <div className="max-w-4xl mx-auto">
-          <h2 className="text-4xl md:text-5xl font-bold text-center mb-16 text-accent">
-            Our Love Story
-          </h2>
 
-          <div className="relative">
-            {/* Timeline line */}
-            <div className="absolute left-1/2 transform -translate-x-1/2 w-1 h-full bg-gradient-to-b from-accent to-accent/30"></div>
-
-            {/* Timeline items */}
-            {MEMORIES.map((memory, index) => (
-              <div
-                key={index}
-                className={`mb-12 flex ${index % 2 === 0 ? 'flex-row' : 'flex-row-reverse'}`}
-              >
-                <div className="w-1/2 px-4">
-                  <div className="bg-background rounded-lg p-6 shadow-lg hover:shadow-xl transition-all duration-300 transform hover:scale-105">
-                    <img
-                      src={memory.image}
-                      alt={memory.title}
-                      className="w-full h-40 object-cover rounded-lg mb-4"
-                    />
-                    <p className="text-sm text-accent font-semibold mb-2">{memory.date}</p>
-                    <h3 className="text-xl font-bold text-foreground mb-2">{memory.title}</h3>
-                    <p className="text-foreground/80">{memory.message}</p>
-                  </div>
-                </div>
-
-                {/* Timeline dot */}
-                <div className="w-0 flex justify-center">
-                  <div className="w-4 h-4 bg-accent rounded-full border-4 border-background shadow-lg"></div>
-                </div>
-
-                <div className="w-1/2"></div>
-              </div>
-            ))}
-          </div>
-        </div>
-      </section>
 
       {/* LOVE COUNTER SECTION */}
       <section id="counter" className="py-20 px-4 bg-background">
