@@ -376,7 +376,7 @@ Your Hubby ❤️`;
             Days I Have Loved You
           </h2>
           <div className="bg-gradient-to-br from-accent/20 to-accent/10 rounded-3xl p-12 shadow-xl">
-            <p className="text-7xl md:text-8xl font-bold text-accent mb-4">
+            <p className="text-7xl md:text-8xl font-bold text-accent mb-4" style={{borderStyle: 'double'}}>
               {daysCount}
             </p>
             <p className="text-2xl text-foreground font-light">
